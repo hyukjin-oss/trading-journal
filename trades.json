@@ -1,0 +1,68 @@
+{
+  "_updated": "2026-07-09 22:42",
+  "trades": [
+    {
+      "stock": "삼성전자",
+      "buyDate": "2026-06-02",
+      "sellDate": "2026-06-10",
+      "buyPrice": 75000,
+      "sellPrice": 78500,
+      "qty": 50,
+      "memo": "눌림목 매수"
+    },
+    {
+      "stock": "SK하이닉스",
+      "buyDate": "2026-06-05",
+      "sellDate": "2026-06-15",
+      "buyPrice": 195000,
+      "sellPrice": 188000,
+      "qty": 10,
+      "memo": "반도체 반등 기대"
+    },
+    {
+      "stock": "POSCO홀딩스",
+      "buyDate": "2026-06-10",
+      "sellDate": "2026-06-20",
+      "buyPrice": 420000,
+      "sellPrice": 445000,
+      "qty": 5,
+      "memo": ""
+    },
+    {
+      "stock": "현대차",
+      "buyDate": "2026-06-18",
+      "sellDate": "2026-06-25",
+      "buyPrice": 215000,
+      "sellPrice": 228000,
+      "qty": 15,
+      "memo": "실적 모멘텀"
+    },
+    {
+      "stock": "카카오",
+      "buyDate": "2026-06-20",
+      "sellDate": "2026-06-28",
+      "buyPrice": 42000,
+      "sellPrice": 39500,
+      "qty": 30,
+      "memo": "손절"
+    },
+    {
+      "stock": "NAVER",
+      "buyDate": "2026-07-01",
+      "sellDate": "2026-07-07",
+      "buyPrice": 168000,
+      "sellPrice": 175000,
+      "qty": 10,
+      "memo": ""
+    },
+    {
+      "stock": "LG에너지솔루션",
+      "buyDate": "2026-07-03",
+      "sellDate": "2026-07-09",
+      "buyPrice": 380000,
+      "sellPrice": 395000,
+      "qty": 3,
+      "memo": "배터리 섹터 강세"
+    }
+  ]
+}
